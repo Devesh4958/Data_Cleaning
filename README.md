@@ -22,7 +22,3 @@ Handling the dataset by cleaning and structuring it, making it ready for analysi
 - Valuable insights.
 
 ---
-
-# Usage
-1. We will get some valuable insights by cleaning and preprocessing.
-2. Data cleaning and pre-processing increases the readability
